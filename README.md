@@ -32,7 +32,7 @@ I mappen du klonade: `git status`. Läs vad det står, ord för ord. Du ska se "
 
 ### Steg 3. Din första ändring och commit
 
-Ändra titeln i `index.html` till något eget. Kör `git status` (filen är röd), `git add index.html` (grön), `git commit -m "Ändra sidans titel"`. Kör `git statu` och se din commit.
+Ändra titeln i `index.html` till något eget. Kör `git status` (filen är röd), `git add index.html` (grön), `git commit -m "Ändra sidans titel"`. Kör `git status` och se din commit.
 
 ### Steg 4. Gör fem commits till
 
